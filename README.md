@@ -1,1 +1,1 @@
-# tangem-app-config
+# tangem-app-config  v5.19.0
