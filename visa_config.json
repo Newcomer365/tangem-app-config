@@ -9,5 +9,6 @@
     },
     "txHistoryAPIAdditionalHeaders": {
         "x-asn": "66215"
-    }
+    },
+    "rsaPublicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvPCe/Vyucmh61LmJX+mzuFOwm1wJuaKBh8kk6nHxvvWV7HITMW0io5mKz3anVgZnuTimb7P2gIKZt0U2xyjthG917/7hLxb2+ErJ6vCI9e7AsAMsYSJ5iJKFk85Mm4/TuPRzivaV//lpS8M3Kdqecrs6TNrt5rnmZEfYwTlgH8wIDAQAB"
 }

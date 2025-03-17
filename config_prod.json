@@ -102,7 +102,38 @@
 			"jsonRpc": "2c823423a8e347aba47fe9a6fcc19994"
 		},
 		"filecoin": {
-			"jsonRpc": "6308d15e88544c40a0559ff2dcd19a50"
+            "jsonRpc": "6308d15e88544c40a0559ff2dcd19a50"
+        },
+        "arbitrum-one": {
+            "jsonRpc": "7550ec007cd249d48f97839f41bceb9e"
+        },
+        "bitcoinCash": {
+            "blockBookRest": "f82e37fbd7c24ea5a325e26eb7122aa5",
+            "jsonRpc": "ed10cc69b75f4a73b4861487944099df"
+        },
+        "kusama": {
+            "jsonRpc": "a6d774b5fa9449209cb6daf6ceec849c"
+        },
+        "moonbeam": {
+            "jsonRpc": "90c83d28b1f74077ae714b347e0f8043"
+        },
+        "optimism": {
+            "jsonRpc": "b0d83a3f2af44a17a65f00f11be66cbe"
+        },
+        "polkadot": {
+            "jsonRpc": "a5d090bb85e04e02a34e85280d62d920"
+        },
+        "shibarium": {
+            "jsonRpc": "118d55b2176d4acb966f52fd44bf1fc7"
+        },
+        "sui": {
+            "jsonRpc": "87b525cd9e14431c866aa7766a488625"
+        },
+        "telos": {
+            "jsonRpc": "90241b7fe80b4d52bae8cf99bf3f7192"
+        },
+        "tezos": {
+            "rest": "cdf3db9519e54c46bdfb415516cd987d"
 		}
 	},
 	"kaspaSecondaryApiUrl": "https://api.kaspacalc.net/",
@@ -140,5 +171,6 @@
     "koinosProApiKey": "U1w9hCbojMm8BNJddMoEE3OCyn5lVjWB",
     "stakeKitApiKey": "7c88cfa1-9146-48e0-9b58-eeebefe95585",
     "bittensorDwellirKey": "2429cd44-0984-471c-845d-9b0985050ebe",
-    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba"
+    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba",
+    "alephiumTangemApiKey": "ff4c655cbfc0194707941edbd8a5980a22a5a7cc9bd977eb0601977f8a44aa59"
 }

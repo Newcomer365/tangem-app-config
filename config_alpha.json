@@ -141,5 +141,6 @@
     "koinosProApiKey": "U1w9hCbojMm8BNJddMoEE3OCyn5lVjWB",
     "stakeKitApiKey": "7c88cfa1-9146-48e0-9b58-eeebefe95585",
     "bittensorDwellirKey": "2429cd44-0984-471c-845d-9b0985050ebe",
-    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba"
+    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba",
+    "alephiumTangemApiKey": "ff4c655cbfc0194707941edbd8a5980a22a5a7cc9bd977eb0601977f8a44aa59"
 }

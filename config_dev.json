@@ -106,6 +106,37 @@
         },
         "filecoin": {
             "jsonRpc": ""
+        },
+        "arbitrum-one": {
+            "jsonRpc": ""
+        },
+        "bitcoinCash": {
+            "blockBookRest": "",
+            "jsonRpc": ""
+        },
+        "kusama": {
+            "jsonRpc": ""
+        },
+        "moonbeam": {
+            "jsonRpc": ""
+        },
+        "optimism": {
+            "jsonRpc": ""
+        },
+        "polkadot": {
+            "jsonRpc": ""
+        },
+        "shibarium": {
+            "jsonRpc": ""
+        },
+        "sui": {
+            "jsonRpc": ""
+        },
+        "telos": {
+            "jsonRpc": ""
+        },
+        "tezos": {
+            "rest": ""
         }
     },
     "kaspaSecondaryApiUrl": "https://api.kaspacalc.net/",
@@ -135,5 +166,6 @@
     "koinosProApiKey": "oVSYYH3lt0nANHV7LxvoN7B2N8Q6HQxv",
     "stakeKitApiKey": "ccf0a87a-3d6a-41d0-afa4-3dfc1a101335",
     "bittensorDwellirKey": "2429cd44-0984-471c-845d-9b0985050ebe",
-    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba"
+    "bittensorOnfinalityKey": "65009fc1-0eac-4200-a62e-0023d5d266ba",
+    "alephiumTangemApiKey": "ff4c655cbfc0194707941edbd8a5980a22a5a7cc9bd977eb0601977f8a44aa59"
 }
